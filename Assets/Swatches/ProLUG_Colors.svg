@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-10830.3,-11338.3)">
+        <g id="ProLUGColorPallette" transform="matrix(0.517546,0,0,0.595347,8297.22,10356.3)">
+            <rect x="4894.4" y="1649.41" width="1159.32" height="1007.82" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="4894.4" y="1649.41" width="1159.32" height="1007.82"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(2.63204,0,0,2.73072,-8925.18,-3618.92)">
+                    <rect x="5250.51" y="1929.29" width="223.462" height="184.533" style="fill:rgb(20,68,154);"/>
+                </g>
+                <g transform="matrix(2.63204,0,0,2.73072,-8925.18,-3115.01)">
+                    <rect x="5250.51" y="1929.29" width="223.462" height="184.533" style="fill:rgb(147,44,32);"/>
+                </g>
+                <g transform="matrix(3.29327,0,0,2.10336,-12878.5,-2699.78)">
+                    <rect x="5575.33" y="2067.73" width="173.431" height="239.573" style="fill:rgb(75,124,211);"/>
+                </g>
+                <g transform="matrix(3.29327,0,0,2.10336,-12878.5,-2195.87)">
+                    <rect x="5575.33" y="2067.73" width="173.431" height="239.573" style="fill:rgb(230,75,23);"/>
+                </g>
+                <g transform="matrix(2.63204,0,0,2.73072,-8631.1,-3366.97)">
+                    <rect x="5250.51" y="1929.29" width="223.462" height="184.533" style="fill:white;fill-opacity:0.2;"/>
+                </g>
+                <g transform="matrix(0.165334,0,0,0.143728,4384.79,1406.53)">
+                    <text x="4344.19px" y="2187.84px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">Dark Blue</text>
+                    <text x="3988.05px" y="2410.58px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">H: <tspan x="4289.59px " y="2410.58px ">2</tspan>19 S: <tspan x="4973.45px " y="2410.58px ">7</tspan>7 L:34</text>
+                    <text x="4416.38px" y="2633.32px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">#14449A</text>
+                    <g transform="matrix(217.096,0,0,217.096,5691.49,2856.07)">
+                    </g>
+                    <text x="4030.27px" y="2856.07px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">R: <tspan x="4307.72px " y="2856.07px ">2</tspan>0 B:68 B:154</text>
+                </g>
+                <g transform="matrix(0.165334,0,0,0.143728,4384.79,2160.49)">
+                    <text x="4157.38px" y="2187.84px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">Burnt Orange</text>
+                    <text x="4108.75px" y="2410.58px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">H: <tspan x="4410.3px " y="2410.58px ">6</tspan> S: <tspan x="4852.74px " y="2410.58px ">6</tspan>4 L:35</text>
+                    <text x="4420.39px" y="2633.32px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">#932C20</text>
+                    <g transform="matrix(217.096,0,0,217.096,5661.32,2856.07)">
+                    </g>
+                    <text x="4060.45px" y="2856.07px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">R:147 B:44 B:32</text>
+                </g>
+                <g transform="matrix(0.165334,0,0,0.143728,4678.98,1834)">
+                    <text x="3658.39px" y="2187.84px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">20% T<tspan x="4282.1px 4378.49px " y="2187.84px 2187.84px ">ra</tspan>nsparent W<tspan x="5669.35px " y="2187.84px ">h</tspan>ite</text>
+                    <g transform="matrix(217.096,0,0,217.096,5779.52,2410.58)">
+                    </g>
+                    <text x="3942.24px" y="2410.58px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">&apos;Used Fo<tspan x="4831.03px " y="2410.58px ">r</tspan> A<tspan x="5152.55px " y="2410.58px ">c</tspan>cents</text>
+                </g>
+                <g transform="matrix(0.165334,0,0,0.143728,4972.9,1406.53)">
+                    <text x="4322.16px" y="2187.84px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">Light Blue</text>
+                    <text x="3988.05px" y="2410.58px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">H: <tspan x="4289.59px " y="2410.58px ">2</tspan>19 S: <tspan x="4973.45px " y="2410.58px ">6</tspan>1 L:56</text>
+                    <text x="4378.28px" y="2633.32px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">#4B7CD3</text>
+                    <g transform="matrix(217.096,0,0,217.096,5751.84,2856.07)">
+                    </g>
+                    <text x="3969.92px" y="2856.07px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">R: <tspan x="4247.37px " y="2856.07px ">7</tspan>5 B:124 B:211</text>
+                </g>
+                <g transform="matrix(0.165334,0,0,0.143728,4972.9,2160.49)">
+                    <text x="4484.98px" y="2187.84px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">Orange</text>
+                    <text x="4048.4px" y="2410.58px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">H: <tspan x="4349.95px " y="2410.58px ">1</tspan>5 S: <tspan x="4913.09px " y="2410.58px ">8</tspan>2 L:50</text>
+                    <text x="4406.39px" y="2633.32px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">#E64B17</text>
+                    <g transform="matrix(217.096,0,0,217.096,5691.49,2856.07)">
+                    </g>
+                    <text x="4030.27px" y="2856.07px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:217.096px;fill:white;">R: <tspan x="4307.72px " y="2856.07px ">2</tspan>30 B:75 B:23</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
